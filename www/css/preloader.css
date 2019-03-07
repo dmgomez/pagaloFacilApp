@@ -1,0 +1,14 @@
+div.loading {
+
+    background-color: transparent;
+    background-image: url('/images/preloader.gif');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    opacity: 5;
+}
+div.loading * {
+    opacity: .2;
+}
+
+
+}
